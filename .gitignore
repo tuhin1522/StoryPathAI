@@ -24,4 +24,7 @@ build/
 .coverage.*
 htmlcov/
 .tox/
-.nox/       
+.nox/ 
+backend/.env/
+frontend/node_modules/
+frontend/.env/      
